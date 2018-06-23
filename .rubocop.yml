@@ -1,0 +1,30 @@
+---
+AllCops:
+  TargetRubyVersion: 2.1
+  DisplayCopNames: true
+  Exclude:
+    - spec/fixtures/**/*
+
+Metrics/LineLength:
+  Enabled: false
+
+Style/AccessModifierDeclarations:
+  Enabled: false
+
+Style/CommandLiteral:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/DoubleNegation:
+  Enabled: false
+
+Style/RegexpLiteral:
+  Enabled: false
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/UnneededInterpolation:
+  Enabled: false
