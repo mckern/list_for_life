@@ -6,8 +6,8 @@ Gem::Specification.new do |gem|
   gem.version = ListForLife::VERSION
   gem.date = Date.today.to_s
 
-  gem.summary = %(Easily consumable simple word list library)
-  gem.description = %(Easily build simple word lists)
+  gem.summary = %(A library to easily retrieve and consume word lists)
+  gem.description = %(A library to easily retrieve and consume word lists)
   gem.license = "MIT"
 
   gem.authors = ["Ryan McKern"]
